@@ -1,4 +1,3 @@
-#nice
 pipeline{
     agent{
         label "master"
